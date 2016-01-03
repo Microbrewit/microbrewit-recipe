@@ -1,0 +1,15 @@
+{
+  "name": "microbrewit-recipe",
+  "version": "1.0.0",
+  "description": "Utilities for doing recipe calculations.",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torstein Thune <torstein@gmail.com> (http://thune.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "microbrewit-formulas": "^1.0.1",
+    "microbrewit-node": "^1.0.1"
+  }
+}
