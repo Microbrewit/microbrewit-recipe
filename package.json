@@ -1,7 +1,7 @@
 {
   "name": "microbrewit-recipe",
   "version": "1.0.0",
-  "description": "Utilities for doing recipe calculations.",
+  "description": "The internal Microbrew.it beer model.",
   "main": "src/index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
